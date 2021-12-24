@@ -1,6 +1,6 @@
 # starseeker
 
-A telescope designed when I was 15.
+A telescope that I designed at 15.
 
 Electronics
 - Arduino-based controller;
