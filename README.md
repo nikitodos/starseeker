@@ -1,6 +1,6 @@
 # starseeker
 
-A telescope designed in collaboration with my ex girlfriend.
+A telescope designed when I was 15.
 
 Electronics
 - Arduino-based controller;
