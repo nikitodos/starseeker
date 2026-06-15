@@ -21,6 +21,8 @@ After participating in the restoration of a 30 cm Celestron telescope from the 1
 
 Access to machining tools and aluminum stock allowed me to explore the complete design process, from optical calculations to mechanical modelling. Moreover, an Arduino-based controller connected to three synchronous electric motors provides pitch, yaw and elevation control. Pictures were to be taken by one active-pixel sensor. All of this composes the AOS -- Aft Optical Subsystem.
 
+<img src="images/OTE_diagram_from_Gardner_2006_Fig_32.png" width="600">
+
 ## Optical Configuration
 
 ### Primary Mirror (PM)
