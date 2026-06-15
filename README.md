@@ -2,6 +2,8 @@
 
 A modular segmented telescope concept that I designed when I was 15 years old.
 
+<img src="images/render.png" width="600">
+
 Inspired by the architecture of the James Webb Space Telescope (JWST), Starseeker was conceived as an educational project aimed at exploring advanced optical systems, deployable structures and segmented mirrors using amateur-level resources.
 
 The project combines:
